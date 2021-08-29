@@ -4,7 +4,7 @@ DaggerHiltMVI is a personal project to study about the MVI architecture and depe
 
 After launch the applicaiton, a running progress bar will be shown while network data is retrieved, and once the data is obtained, it'll be cached and displayed on the screen.
 
-![deggarhiltmvi](https://user-images.githubusercontent.com/41413741/131264773-a5a4d7ab-a8d0-4635-a0b6-08a64c25c480.png)
+![deggarhiltmvi](https://user-images.githubusercontent.com/41413741/131264922-fe9b69fd-d0c0-4eef-b98b-845a60cb2e8d.png)
 
 
 ## Technologies Used
