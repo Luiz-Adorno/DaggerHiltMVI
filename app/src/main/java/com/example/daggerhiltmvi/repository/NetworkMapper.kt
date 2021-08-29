@@ -1,6 +1,7 @@
 package com.example.daggerhiltmvi.repository
 
 import com.example.daggerhiltmvi.model.Blog
+import com.example.daggerhiltmvi.repository.retrofit.BlogNetworkEntity
 import com.example.daggerhiltmvi.util.EntityMapper
 import javax.inject.Inject
 
@@ -25,7 +26,7 @@ constructor() : EntityMapper<BlogNetworkEntity, Blog> {
             image = domainModel.image,
             category = domainModel.category
         )
-    } 
+    }
 
     fun mapFromEntityList(entities: List<BlogNetworkEntity>): List<Blog>{
         return entities.map { entitytoMap(it) }

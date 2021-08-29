@@ -1,4 +1,4 @@
-package com.example.daggerhiltmvi.repository
+package com.example.daggerhiltmvi.repository.retrofit
 
 import com.google.gson.annotations.Expose
 import com.google.gson.annotations.SerializedName
