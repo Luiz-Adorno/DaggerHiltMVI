@@ -1,6 +1,6 @@
 # DaggerHiltMVI
 
-DaggerHiltMVI is a personal project to study about the MVI architecture and dependency injection with Dagger Hilt. Hilt provides a standard way to incorporate Dagger dependency injection into an Android application. 
+DaggerHiltMVI is a personal project to study about the MVI architecture and dependency injection with Dagger Hilt. 
 
 After launch the applicaiton, a running progress bar will be shown while network data is retrieved, and once the data is obtained, it'll be cached and displayed on the screen.
 
@@ -29,7 +29,7 @@ After launch the applicaiton, a running progress bar will be shown while network
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Hilt provides a standard way to incorporate Dagger dependency injection into an Android application. 
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
