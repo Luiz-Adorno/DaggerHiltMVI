@@ -8,7 +8,7 @@ DaggerHiltMVI is a personal project to study about the MVI architecture and depe
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#usage">Dagger Hilt</a></li>
+    <li><a href="#Dagger Hilt">Dagger Hilt</a></li>
     <li><a href="#roadmap">View binding</a></li>
     <li><a href="#contributing">Coroutines</a></li>
     <li><a href="#license">Mvi architecture</a></li>
