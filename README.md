@@ -2,6 +2,11 @@
 
 DaggerHiltMVI is a personal project to study about the MVI architecture and dependency injection with Dagger Hilt. Hilt provides a standard way to incorporate Dagger dependency injection into an Android application. 
 
+After launch the applicaiton, a running progress bar will be shown while network data is retrieved, and once the data is obtained, it'll be cached and displayed on the screen.
+
+![deggarhiltmvi](https://user-images.githubusercontent.com/41413741/131264773-a5a4d7ab-a8d0-4635-a0b6-08a64c25c480.png)
+
+
 ## Technologies Used
 
 <!-- TABLE OF CONTENTS -->
@@ -11,9 +16,9 @@ DaggerHiltMVI is a personal project to study about the MVI architecture and depe
     <li><a href="#Hilt">Dagger Hilt</a></li>
     <li><a href="#Mvi">Mvi architecture</a></li>
     <li><a href="#Coroutines">Coroutines</a></li>
-    <li><a href="#roadmap">View binding</a></li>
-    <li><a href="#contact">Retrofit</a></li>
     <li><a href="#acknowledgements">Room database</a></li>
+    <li><a href="#contact">Retrofit</a></li>
+    <li><a href="#roadmap">View binding</a></li>
   </ol>
 </details>
 
@@ -57,7 +62,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Link
 
-* [Dagger Hilt](https://medium.com/swlh/mvi-architecture-with-android-fcde123e3c4a)
+* [Mvi](https://medium.com/swlh/mvi-architecture-with-android-fcde123e3c4a)
 
 <!-- Coroutines -->
 ## Coroutines
@@ -77,7 +82,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Link
 
-* [Dagger Hilt](https://developer.android.com/kotlin/coroutines?gclsrc=aw.ds&gclid=CjwKCAjw4KyJBhAbEiwAaAQbEzFrtlgNagG83dy-RnKa2AusEQg-9tN7Woj75Rwu_ISFawQRjAidaxoCHuAQAvD_BwE)
+* [Coroutines](https://developer.android.com/kotlin/coroutines?gclsrc=aw.ds&gclid=CjwKCAjw4KyJBhAbEiwAaAQbEzFrtlgNagG83dy-RnKa2AusEQg-9tN7Woj75Rwu_ISFawQRjAidaxoCHuAQAvD_BwE)
 
 
 
